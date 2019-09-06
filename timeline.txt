@@ -1,11 +1,11 @@
-
+﻿
 1.	Introdução   07-14 
   
 2.	Coleta de Dados  OK
 3.1.	Cálculo de área:   OK
 3.2.	Filtro das edificações por área: OK
-3.3.	Determinar a regional de cada EDIFICACAO. 2 - 6  
-3.4.	Cálculo de altura das edificações  9-15
+3.3.	Determinar a regional de cada EDIFICACAO. OK  
+3.4.	Cálculo de altura das edificações  4-15
 3.5.	Cálculo de sombra na edificação  16 -23
 3.6.	Cálculo de DNI para cada edificação  23 - 27
 3.7.	Cálculo da estimativa de produção de energia gerada:  30 - 07
