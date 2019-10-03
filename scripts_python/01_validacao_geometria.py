@@ -1,5 +1,5 @@
 ##############
-# Validação da geometria de um arquivo shaoe file
+# Validação da geometria de um arquivo shape file
 # autor: Tiago da Costa Norberto
 # data  05/08/2018
 ###
