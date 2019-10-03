@@ -1,5 +1,8 @@
-# Repositório para o o TCC da puc
-Esse repositório é utilizado para os códigos referentes 
+# Repositório para o TCC PUC
+Esse repositório é utilizado para os códigos referentes ao trabalho de conclusão de curso 
+como  o tema : Estimativa da altura das edificações da cidade de Belo Horizonte utilizando dados geográficos de
+Tiago da Costa Norberto  turma 2018-01 / 2019-02
+
 
 ## Estrutura das pastas
 - scripts python: scripts utilizados para a execução da análise dos dados
