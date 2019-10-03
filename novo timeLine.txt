@@ -5,20 +5,22 @@
 3.1.	Filtro das geometrias OK
 3.2.	Cálculo de área   OK
 3.3.	Determinar a regional para cada objeto do dataset de EDIFICACAO OK
-3.4.	Determinar a regional para cada objeto do dataset de BAIRRO  9-10
-3.5.	Determinar a regional para cada objeto do dataset de ARTICULACAO 11-13
+3.5.	Determinar a regional para cada objeto do dataset de ARTICULACAO OK
 3.6.	Cálculo de altura das edificações:  16 - 27
+   desenhar o fluxo e definir o topicos 11
+   criar o fluxo   12 - 20   
+   escrevar o fluxo 12 - 20                                                                                                                                       
 
 
 4 - Análise e Exploração dos Dados
 4.1.	Filtro das geometrias  OK
 4.2.	Cálculo de área   OK
 4.3.	Determinar a regional para cada objeto do dataset de EDIFICACAO  OK
-4.4.	Determinar a regional para cada objeto do dataset de BAIRRO   9-10
-4.5.	Determinar a regional para cada objeto do dataset de ARTICULACAO 11-13
-4.6.	Cálculo de altura das edificações: 16 - 27
+4.5.	Determinar a regional para cada objeto do dataset de ARTICULACAO OK
+4.6.	Cálculo de altura das edificações: 
+       escrever os resultados 
 
-
-
+  
 
 5 - Video   27-04
+
